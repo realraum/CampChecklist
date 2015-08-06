@@ -1,7 +1,7 @@
-# CongressChecklist
+# CampChecklist
 ===================
 
-List of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
+List of things to do, to pack and tips on attending a camp, especially Chaos Communication Camp.
 
 This list is irregularly updated (and pushed). You may want to refresh regularly. :-) Pull requests are welcome!
 
@@ -9,7 +9,7 @@ This list is irregularly updated (and pushed). You may want to refresh regularly
 
 
 ## Humans
-General considerations to make the congress a worthwhile experience for everyone, humans, robots and aliens alike.
+General considerations to make the camp a worthwhile experience for everyone, humans, robots and aliens alike.
 You'll also find a list of all the nice humans who have contributed to this list at the bottom.
 
 
@@ -35,7 +35,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Send a pull request to this list for all the things I did not think of.
 - Feed the guinea pigs.
 - Water your plants.
-- (optional) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
+- (optional) Create account in the [camp wiki][12], [add your projects][13] and [find your village][14].
 
 
 ## Things to send
@@ -54,10 +54,9 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 ### Documents
 - train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
-- congress tickets (printed or in iOS passbook)
+- camp tickets (printed or in iOS passbook)
 - passport or other kind of photo ID (Personalausweis)
 - driver's license (even an international one)
-- hotel booking
 - ham radio license (CEPT license)
 - [Hackerspace passport][5]
 - an [organ donor card][21] (We really hope you won't need them, but just in the case: you might save a life!)
@@ -172,10 +171,10 @@ Your personal medication does not belong on the public interwebs for your privac
 
 
 ### Clothing
-- at least ONE clean shirt for each day you stay, plus two for traveling to and from congress (nerdy print is always welcome)
-- at least ONE set of clean underwear for each day you stay, plus two for traveling to and from congress (Doesn't necessarily need to be in matching pairs, but that is up to you.)
-- at least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from congress
-- enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress (even if somebody accidentally (or intentionally) spills a beverage all over you!)
+- at least ONE clean shirt for each day you stay, plus two for traveling to and from camp (nerdy print is always welcome)
+- at least ONE set of clean underwear for each day you stay, plus two for traveling to and from camp (Doesn't necessarily need to be in matching pairs, but that is up to you.)
+- at least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for traveling to and from camp
+- enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend camp (even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - long sleeve shirts
 - hoodies, pullovers
@@ -297,13 +296,13 @@ Your personal medication does not belong on the public interwebs for your privac
 
 
 ## Securing your devices
-All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices _within_, as well as from maleficent third parties _outside_ the Congress network.
+All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices _within_, as well as from maleficent third parties _outside_ the Camp network.
 
-Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there.
+Read the [How to survive guide][1] in the Camp Wiki. There are many excellent tips in there.
 
 
 ### Backups
-Make fresh backups of ALL the devices you bring to CCCongress. Test that you can actually restore data from those backups!
+Make fresh backups of ALL the devices you bring to CCCamp. Test that you can actually restore data from those backups!
 
 
 ### BIOS/EFI Password
@@ -323,7 +322,7 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 
 
 ### VPN tunnel
-Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!  
+Have at least one trusted, working and tested VPN endpoint available for tunneling out of the camp network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!  
 
 - [OpenVPN][16]
 - L2TP/IPSec
@@ -336,7 +335,7 @@ Also have those tunnels configured on ALL the devices you intend to use, and hav
 
 
 ### Phones
-It is not recommended to connect your smartphone to the congress wifi, if you still can't resist, here are a few things to consider:
+It is not recommended to connect your smartphone to the camp wifi, if you still can't resist, here are a few things to consider:
 
 - Make sure that it's **not a 802.11b** device, as it would slow down the complete wifi network.
 - Disable all synchronization services, as they might be using plaintext.
@@ -402,7 +401,7 @@ These people have contributed to improve this list for everyone (in no particula
 - [@leyrer][133]
 
 ## Links
-[1]:https://events.ccc.de/congress/2014/wiki/Static:How_To_Survive
+[1]:https://events.ccc.de/camp/2015/wiki/How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2013/wiki/Static:Anti-Harassment_Policy "Anti Harrassment Policy"
 [4]:http://r0cket.org/
@@ -413,15 +412,15 @@ These people have contributed to improve this list for everyone (in no particula
 [9]:https://github.com/apenwarr/sshuttle
 [10]:https://www.blau.de/
 [11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2014/wiki/
-[13]:https://events.ccc.de/congress/2014/wiki/Form:Projects
-[14]:https://events.ccc.de/congress/2014/wiki/Static:Assemblies
+[12]:https://events.ccc.de/camp/2015/wiki/Main_Page
+[13]:https://events.ccc.de/camp/2015/wiki/Static:Projects
+[14]:https://events.ccc.de/camp/2015/wiki/Static:Villagse
 [15]:https://bettercrypto.org/ "Better Crypto"
 [16]:https://openvpn.net/ "OpenVPN"
 [17]:http://code.kryo.se/iodine/ "iodine"
 [18]:http://openssh.org/ "OpenSSH"
 [19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2014/Fahrplan/ "31C3 Fahrplan aka conference schedule"
+[20]:https://events.ccc.de/camp/2015/wiki/Static:Schedule "CCCamp15 Fahrplan aka conference schedule"
 [21]:https://www.organspende-info.de
 [22]:https://play.google.com/store/apps/details?id=com.googlecode.droidwall.free
 [23]:https://events.ccc.de/congress/2014/wiki/Static:Safety_and_Security "31C3 Wiki: Safety and Security"
